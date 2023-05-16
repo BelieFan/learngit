@@ -1,3 +1,3 @@
 gitty
 right
-new branch
+creating a new branch

@@ -1,3 +1,3 @@
 gitty
 right
-new branch ahahha
+creating a new branch ahaha
